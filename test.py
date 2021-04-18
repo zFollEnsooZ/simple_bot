@@ -1,3 +1,4 @@
+# This programm crate - FolEnsoo
 def get_vat(payment, persent=20):
 	try:
 		payment = float(payment)
